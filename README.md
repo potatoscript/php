@@ -1,1 +1,1 @@
-# [JavaScript Tutorial](https://github.com/potatoscript/php/wiki)
+# [PHP Tutorial](https://github.com/potatoscript/php/wiki)
